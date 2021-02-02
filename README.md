@@ -15,5 +15,5 @@
 
 - ✍️ [Blogger](https://blog.mrqian.top)
 - ⚡ [Cloudflare](https://workers.cloudflare.com) / [Vercel](https://vercel.com) / [Github](https://github.com)
-- 🖋  Write at [vscode](https://code.visualstudio.com/) / [typechro](https://www.typora.io/)
+- 🖋  Write with [vscode](https://code.visualstudio.com/) / [typechro](https://www.typora.io/)
 - 🎉 [mytools.pub](https://mytools.pub)

@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Highness&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Languages and Tools:
+### Languages:
 
 <code><img height="20" src="https://ae03.alicdn.com/kf/Hcc89cc7cedc542869b76bb45336a02f14.jpg" alt="vue"></code>
 <code><img height="20" src="https://ae02.alicdn.com/kf/H994800b573494bf1a3f12b248e12d3ddn.jpg" alt="python"></code>

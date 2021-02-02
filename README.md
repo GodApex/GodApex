@@ -8,9 +8,9 @@
 
 ### Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/Peter-Highness/free@2a4b249f98158e14b7e4fde6e7597ce8b5c34500/2021/02/02/f4b420377beb0043bcc103707bdbbee9.png" alt="vue"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/Peter-Highness/free@ac1b23c81c52d162ee18a6f97eff89ee6e2d14cd/2021/02/02/25adc70891522fe1499e49e0cd6fa5d4.png" alt="python"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/Peter-Highness/free@9c0c252c523b42b9c068f82600a252cd2146a453/2021/02/02/b4efe584da75b415512d7a77948f2706.png" alt="nodejs"></code>
 
 - ✍️ [Blogger](https://blog.mrqian.top)
 - ⚡ [Cloudflare](https://workers.cloudflare.com) / [Vercel](https://vercel.com) / [Github](https://github.com)

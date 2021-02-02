@@ -1,7 +1,6 @@
 # Hey 👋, This is Peter
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=Peter-Highness alt=Peter-Highness /> </p>
 
 <a href="https://github.com/Peter-Highness">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Peter-Highness&show_icons=true&include_all_commits=true" />

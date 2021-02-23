@@ -1,9 +1,9 @@
 # Hey 👋, This is GodApex！
 
-## Some of my Github Stats
+## Some of my Github Stars
 
-![Peter-Highness's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peter-Highness&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter-Highness&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GodApex's GitHub stars](https://github-readme-stats.vercel.app/api?username=GodApex&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodApex&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages:
@@ -15,7 +15,7 @@
 
 ### Something about me:
 
-- ✍️ [Blogger](https://blog.mrqian.top)
+- ✍️ [Blogger](https://godapex.com)
 - ⚡ [Cloudflare](https://workers.cloudflare.com) / [Vercel](https://vercel.com) / [Github](https://github.com)
 - 🖋  Write with [vscode](https://code.visualstudio.com/) / [typechro](https://www.typora.io/)
 - 🎉 [mytools.pub](https://mytools.pub)

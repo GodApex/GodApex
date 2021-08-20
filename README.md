@@ -1,4 +1,4 @@
-# Hey 👋, This is GodApex！
+# Hey 👋, This is Peter Lee！
 
 ## Some of my Github Stars
 
@@ -15,7 +15,7 @@
 
 ### Something about me:
 
-- ✍️ [Blogger](https://godapex.com)
+- ✍️ [Blogger](https://www.godapex.com)
 - ⚡ [Cloudflare](https://workers.cloudflare.com) / [Vercel](https://vercel.com) / [Github](https://github.com)
-- 🖋  Write with [vscode](https://code.visualstudio.com/) / [typechro](https://www.typora.io/)
-- 🎉 [mytools.pub](https://mytools.pub)
+- 🖋  Write with [vscode](https://code.visualstudio.com/) / [typora](https://www.typora.io/)
+- 🎉 [goooo.me](https://goooo.me)
